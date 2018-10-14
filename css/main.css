@@ -61,7 +61,7 @@ section {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     }
-.image-one img:hover{ 
+.image-one img:hover{
     -moz-transform: scale(1.1); -webkit-transform: scale(1.1); transform: scale(1.1);
 }
 
@@ -179,7 +179,7 @@ header .line {padding: 0 98px;}
     font-size: 18px;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 1px; 
+    letter-spacing: 1px;
     padding-bottom: 40px;
 }
 header .btn {
@@ -254,7 +254,7 @@ header .col1:after {content: ''; position: absolute; right: 0; top: 4em; bottom:
 header .col1:last-child:after {display: none;}
 
 .way_icon .fa-desktop,.way_icon .fa-clipboard,.way_icon .fa-object-group {
-    font-size: 40px;      
+    font-size: 40px;
     background: rgb(0,105,203);
     background: -moz-linear-gradient(-45deg, rgba(0,105,203,1) 0%, rgba(0,229,249,1) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(0,105,203,1) 0%,rgba(0,229,249,1) 100%);
@@ -402,7 +402,7 @@ header .col1:last-child:after {display: none;}
     font-weight: 300;
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
 #blog .text-block1 p {
     position: absolute;
@@ -416,7 +416,7 @@ header .col1:last-child:after {display: none;}
     font-weight: 300;
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
 #blog .text-block1 .more a {
     position: absolute;
@@ -449,7 +449,7 @@ header .col1:last-child:after {display: none;}
     background-image: url("../images/social-media-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;  
+    background-size: cover;
 }
 
 #social-media .btn-success {
@@ -537,6 +537,7 @@ footer .gradient {
     top: 0;
 }
 footer .text-center {position: relative;}
+/* more button stuff */
 footer .btn-success,footer .Subscribe form .btn-primary {
     font-size: 16px;
     padding: 7px 18px;
@@ -566,7 +567,7 @@ footer .form-group {float: left; margin-bottom: 25px;}
 footer .Subscribe form input {
     height: 45px;
     border: none;
-    border-radius: 0;    
+    border-radius: 0;
 }
 footer .Subscribe form textarea {height: 190px;border-radius: 0;}
 footer .Subscribe .col {
@@ -635,6 +636,7 @@ footer ul,.footer p {float: right;}
 ===============================================*/
 #Subscribe {padding-bottom: 200px;}
 .text-center {position: relative;}
+/* change below for button color*/
 .btn-success,#Subscribe form .btn-primary {
     font-size: 16px;
     padding: 7px 18px;
@@ -651,6 +653,8 @@ footer ul,.footer p {float: right;}
     border-radius: 0;
     letter-spacing: 0.5px;
 }
+/*change here below for button hover*/
+
 .btn-success:hover,#Subscribe form .btn-primary:hover {
     color: #000;
     background-color: transparent;
@@ -663,7 +667,7 @@ footer ul,.footer p {float: right;}
 .form-group {float: left; margin-bottom: 25px;}
 #Subscribe form input {
     height: 45px;
-    border-radius: 0;    
+    border-radius: 0;
 }
 #Subscribe form textarea {height: 190px;border-radius: 0;}
 #Subscribe .col {
@@ -692,7 +696,7 @@ footer ul,.footer p {float: right;}
     background-color: #fff;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;  
+    background-size: cover;
 }
 
 #social-media-page .portfolio .btn-success {
@@ -871,7 +875,7 @@ footer ul,.footer p {float: right;}
   font-size: 0;
   float:right;
   background:#fff;
-  text-align:center;	
+  text-align:center;
 }
 .mbm_social li {
     display: inline-block;
@@ -1090,7 +1094,7 @@ footer ul,.footer p {float: right;}
     font-weight: 300;
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
 #blog-page .text-block1 p {
     position: absolute;
@@ -1104,7 +1108,7 @@ footer ul,.footer p {float: right;}
     font-weight: 300;
     padding-left: 20px;
     padding-right: 20px;
-    
+
 }
 #blog-page .text-block1 p a {color: #fff;}
 #blog-page .text-block1 .more a {
@@ -1166,7 +1170,7 @@ footer ul,.footer p {float: right;}
 }
 #blog-page>.pages {padding: 100px 0 100px;text-align: center;}
 #blog-page>.pages .btn-primary {
-    border-radius: 0; 
+    border-radius: 0;
     font-size: 16px;
     width: 161px;
     margin: 0 10px;
@@ -1549,7 +1553,7 @@ footer ul,.footer p {float: right;}
        font-size: 10px;
        padding: 5px 9px;
        letter-spacing: 0.5px;
-    } 
+    }
     #blog .text-center h3 {
         font-size: 26px;
     }
@@ -1587,7 +1591,7 @@ footer ul,.footer p {float: right;}
     #blog_single .comment-box h3 {font-size: 28px;padding-bottom: 25px;}
     #blog_single .post .col1 {padding-right: 31px;}
     #blog_single .post .col1 p {font-size: 13px;padding-bottom: 0;}
-    #blog_single .heading h2 {font-size: 22px;padding-right: 150px;padding-bottom: 15px;} 
+    #blog_single .heading h2 {font-size: 22px;padding-right: 150px;padding-bottom: 15px;}
     #blog_single .social-content .img-fluid {height: 350px;}
     .mbm_social li {margin: 0 5px 0 0;}
     .mbm_social small {margin: 0 0 0 10px;}
@@ -1596,7 +1600,7 @@ footer ul,.footer p {float: right;}
     #blog_single .qutation {width: 81%;}
     #blog_single h4 {font-size: 18px;line-height: 30px;}
 }
-@media screen and (max-width: 767px) { 
+@media screen and (max-width: 767px) {
     .container {
         width: 100%;
         max-width:100%;
@@ -1632,7 +1636,7 @@ footer ul,.footer p {float: right;}
     }
     nav p {display: none;}
 }
-    
+
 @media screen and (max-width: 700px) and (min-width: 500px)  {
 .bg-primary h1 {font-size: 26px;padding-bottom: 8px;}
 #portfolios h3 {font-size: 22px;}
@@ -1792,7 +1796,7 @@ footer .Subscribe address p:nth-child(3) span {font-size: 16px;}
 #blog_single .posts h3 {font-size: 28px;}
 #blog_single .comment-box h3 {font-size: 28px;}
 #blog_single hr {margin-top: 1rem;}
-    
+
 }
 
 @media screen and (max-width: 375px) {
